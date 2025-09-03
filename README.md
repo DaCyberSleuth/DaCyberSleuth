@@ -1,5 +1,6 @@
 # Hello, I'm LESLEY
-<a href="https://www.linkedin.com/in/chukwuebuka-asogwa-22014a23a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com"><img src="https://badgen.net/badge/LinkedIn/Profile/0072b1?icon=linkedin" /></a>
+
 
 I am a recent graduate with a profound interest in cybersecurity and a dedication to solving complex problems.
 
