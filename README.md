@@ -3,12 +3,12 @@
 <a href="mailto:chukwuebukasogwa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
-I am a recent graduate with a profound interest in cybersecurity and a dedication to solving complex problems.
+I am an Msc Cyber Security Technology student with a profound interest in cybersecurity and a dedication to solving complex problems.
 
 ## Objective
 
 
-My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as an Analyst.
+My journey in IT has led me to develop a passion for cybersecurity, and I am eager to keep growing in this field, specifically aiming for roles like Security Operations Center (SOC) Analyst, Cybersecurity analysts, Information security specialist 
 
 ## Skills and Projects
 
